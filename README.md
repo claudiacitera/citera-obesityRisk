@@ -1,6 +1,6 @@
 # citera-obesityRisk
 
-## Project Description
+## About this project
 ### Goal
 The goal of this project is to predict the obesity risk in individuals based on different factors.
 
