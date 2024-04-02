@@ -3,6 +3,7 @@
 ## Project Description
 ### Goal
 The goal of this project is to predict the obesity risk in individuals based on different factors.
+
 ### Dataset description
 The datasets (both train.csv and test.csv) contain features about the eating habits, physical condition and estimation of obesity level of people of age between 14 and 61 from Mexico, Colombia and Perù. 
 
@@ -31,15 +32,5 @@ Attributes related with the physical condition:
 Target Attibute:
 - Estimation of obesity level (NObeyesdad)
 
-## Installation
-To run this Jupyter Notebook on your device, please follow the next steps:
-- **Clone the repository** by tiping on a terminal window this command
-> git clone https://github.com/claudiacitera/citera-obesityRisk.git
-- Install the following python modules to fulfill the **Package Requirements**
-    - Python 3.x
-    - numpy
-    - pandas 
-    - matplotlib 
-    - seaborn
-    - scikit-learn 
-    - torch **(RIVEDERE)**
+## Results
+TO-DO
