@@ -1,0 +1,8 @@
+,scoring,model,best_params,accuracy,precision_macro,recall_macro,f1_macro
+0,accuracy,DecisionTree,"{'class_weight': 'balanced', 'criterion': 'entropy', 'max_depth': 8, 'splitter': 'best'}",0.8696531791907515,0.8577274063429536,0.8563663859355268,0.8566726615839738
+1,accuracy,RandomForest,"{'ccp_alpha': 0.0001, 'criterion': 'gini', 'max_depth': 12, 'max_leaf_nodes': 200, 'n_estimators': 30, 'n_jobs': -1}",0.8882947976878612,0.8766183186252149,0.8757798438720792,0.8760993293135636
+2,accuracy,LogisticRegression,"{'C': 1.0, 'penalty': 'l2'}",0.8617052023121388,0.8455085290044675,0.847035234471783,0.8459189030780594
+3,accuracy,AdaBoost,"{'learning_rate': 0.75, 'n_estimators': 20}",0.6786127167630058,0.6930192724156514,0.6427770470441508,0.6172330116383115
+4,accuracy,KNearestNeighbors,"{'leaf_size': 10, 'metric': 'cityblock', 'n_neighbors': 14, 'weights': 'distance'}",0.8271676300578035,0.810092465053467,0.8073496225085398,0.8078278808333836
+5,accuracy,LinearPerceptron,"{'class_weight': 'balanced', 'early_stopping': False}",0.6390173410404625,0.6446915634528588,0.6065661863999335,0.613161399095967
+6,accuracy,SVM,"{'C': 81, 'gamma': 0.001, 'kernel': 'rbf', 'tol': 1e-05}",0.875578034682081,0.8613739393191523,0.8626069618225858,0.8616412563431319
