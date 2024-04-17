@@ -32,5 +32,15 @@ Attributes related with the physical condition:
 Target Attibute:
 - Estimation of obesity level (NObeyesdad)
 
+## Models
+For this project, I trained and evaluated 7 different machine learning models on the given dataset, with the goal of identifying the most promising model for making predictions on the test data. The models used are:
+- Decision Tree (DT)
+- Random Forest (RF)
+- Logistic Regression (LR)
+- AdaBoost (AB)
+- K-Nearest Neighbors (KNN)
+- Linear Perceptron (LP)
+- Support Vector Machine (SVM)
+
 ## Results
-TO-DO
+All models exhibited performance above the average, but among the seven models, five - RandomForest, SVM, DecisionTree, LogisticRegression, and KNN - achieved over 80% in all performance metrics, while the remaining two - AdaBoost and LinearPerceptron - performed at 60%.

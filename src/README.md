@@ -9,11 +9,8 @@ To run this Jupyter Notebook on your device, please follow the next steps:
     - matplotlib 
     - seaborn
     - scikit-learn 
-    - torch **(RIVEDERE)**
 
 ## Folder Description 
 This folder contains:
-- the principal notebook where all the chosen machine learning techniques are tested
-- an additional notebook where deep learning is applied (pytorch ???) **RIVEDERE**
-- a sub-folder containing both training and test datasets
-- a .csv file with the results and best hyperparameters of each model used
+- the notebook where all the chosen machine learning techniques are trained and tested
+- a sub-folder containing both training and test datasets, along with a .csv file cointaining the results/scorings and best hyperparameters of each model used
