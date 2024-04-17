@@ -43,4 +43,4 @@ For this project, I trained and evaluated 7 different machine learning models on
 - Support Vector Machine (SVM)
 
 ## Results
-All models exhibited performance above the average, but among the seven models, five - RandomForest, SVM, DecisionTree, LogisticRegression, and KNN - achieved over 80% in all performance metrics, while the remaining two - AdaBoost and LinearPerceptron - performed at 60%.
+All models exhibited performance above the average, but among the seven models, five - RandomForest, SVM, DecisionTree, LogisticRegression, and KNN - achieved over 80% in all performance metrics, while the remaining two - AdaBoost and LinearPerceptron - scored around 60-65% in all evaluation metrics.
